@@ -54,14 +54,6 @@ XGBoost: Tuned learning_rate, max_depth, n_estimators, subsample, etc
 
 **Logistic Regression**:59.52%
 
-# Metrics Used:
-
-**Accuracy**
-
-**Precision, Recall, F1-Score**
-
-**Confusion Matrix**
-
 # Technologies Used
 
 **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)**
