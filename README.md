@@ -70,4 +70,4 @@ XGBoost: Tuned learning_rate, max_depth, n_estimators, subsample, etc
    
 2.Run the Python script:
 
-        python employee_attrition_prediction.py
+        python ibm_hr_attrition.py
