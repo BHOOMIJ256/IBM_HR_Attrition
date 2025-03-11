@@ -46,13 +46,13 @@ XGBoost: Tuned learning_rate, max_depth, n_estimators, subsample, etc
 
 # Model Evaluation
 
-**XGBoost**:86.05%
+**XGBoost : 87.41%**
 
-**Random Forest**:85.03%
+**Logistic Regression : 86.39%**
 
-**Decision Tree**:73.47%
+**Random Forest : 85.03%**
 
-**Logistic Regression**:59.52%
+**Decision Tree: 76.19%**
 
 # Technologies Used
 
